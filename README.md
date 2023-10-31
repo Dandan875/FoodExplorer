@@ -6,7 +6,7 @@ Aluno: Daniel Xavier<br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projetos">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -24,8 +24,6 @@ Tecnologias usadas nesse curso:
 </p>
 
 ## 💻 Projetos
-
-## Back e Front
 
 <p>Backend e Frontend feitos no desafio</p>
 
