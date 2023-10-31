@@ -27,8 +27,9 @@ Tecnologias usadas nesse curso:
 
 <p>Backend e Frontend feitos no desafio</p>
 
-- [Back](https://github.com/Dandan875/FoodExplorer/tree/master/backend)
 - [Front](https://github.com/Dandan875/FoodExplorer/tree/master/frontend)
+
+<p>Execute "npm run dev" para iniciar o servidor!</p>
 
 ## :memo: Licença
 
